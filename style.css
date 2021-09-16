@@ -23,6 +23,7 @@ button{
     border:1px solid #E05D5D;
     border-radius: 0.5em;
     transition:1s;
+    cursor:pointer;
 }
 button:hover{
     transform: scale(1.4);
