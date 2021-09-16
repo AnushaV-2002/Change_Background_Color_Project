@@ -6,7 +6,7 @@
  <li><p>Javascript - I used Javascript to give interactivity to the webpage</p></li>
  </ul>
  
- # [Live Demo](https://anushav-2002.github.io/Hex_Color_Background_Changer_Project/)
+ # [Live Demo](https://anushav-2002.github.io/Change_Background_Color_Project/)
  
  
  
